@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Farah-sellami an IT student that currently studying in ISET Sfax
-- 👀 I’m interested in new technology and development
-- 📫 How to reach me sellamifarah@sfax.r-iset.tn
+- 👋 Hi, I’m @Farah-sellami an IT student that currently studying in International Institute of Technology, Sfax
+- 👀 I’m interested in Data science and development
+- 📫 How to reach me sellamifarah@sfax.r-iset.tn | farah.sellami@iit.ens.tn
 
 <!---
 Farah-sellami/Farah-sellami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
