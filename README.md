@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Farah-sellami an IT student that currently studying in International Institute of Technology, Sfax
-- 👀 I’m interested in Data science and development
+- 👀 I’m interested in Devops and development
 - 📫 How to reach me sellamifarah@sfax.r-iset.tn | farah.sellami@iit.ens.tn
 
 <!---
