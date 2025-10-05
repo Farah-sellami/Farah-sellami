@@ -44,7 +44,7 @@ I’m passionate about **DevOps, web development, and Business Intelligence**. I
 ---
 
 ## 📫 Contact Me
-- Email: [sellamifarah@sfax.r-iset.tn](mailto:sellamifarah@sfax.r-iset.tn) | [farah.sellami@iit.ens.tn](mailto:farah.sellami@iit.ens.tn)  
+- Email: [sellamifarah@sfax.r-iset.tn](mailto:sellamifarah@sfax.r-iset.tn) | [farah.sellami@iit.ens.tn](mailto:farah.sellami@iit.ens.tn)  | [farah.sell451@gmail.com](mailto:farah.sell451@gmail.com)
 - LinkedIn: [linkedin.com/in/farahsellami](https://www.linkedin.com/in/farahsellami)  
 - GitHub: [github.com/Farah-sellami](https://github.com/Farah-sellami)  
 
