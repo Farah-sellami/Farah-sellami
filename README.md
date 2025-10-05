@@ -1,13 +1,12 @@
 # 👋 Hi, I’m Farah Sellami
 
-I’m a **3rd-year IT engineering student** at the **International Institute of Technology, Sfax**, specializing in **Software Engineering & Decision Support Systems**.  
+I’m a **3rd-year IT engineering student** at the **International Institute of Technology, Sfax**, specializing in **Software Engineering & Business Intelligence**.  
 
 I’m passionate about **DevOps, web development, and Business Intelligence**. I enjoy building scalable applications, automating workflows, designing data-driven solutions, and contributing to innovative projects.
 
 ---
 
-## 🔭 Currently
-- Pursuing my **final-year internship** in **Development & DevOps**.  
+## 🔭 Currently 
 - Exploring **full-stack development** with **Angular, React, Laravel, and ASP.NET Core**.  
 - Working on projects involving **Docker, CI/CD pipelines, AWS Cloud**, and **data analysis/BI tools**.
 
@@ -48,11 +47,6 @@ I’m passionate about **DevOps, web development, and Business Intelligence**. I
 - Email: [sellamifarah@sfax.r-iset.tn](mailto:sellamifarah@sfax.r-iset.tn) | [farah.sellami@iit.ens.tn](mailto:farah.sellami@iit.ens.tn)  
 - LinkedIn: [linkedin.com/in/farahsellami](https://www.linkedin.com/in/farahsellami)  
 - GitHub: [github.com/Farah-sellami](https://github.com/Farah-sellami)  
-
----
-
-## 🌱 Fun Fact
-I combine **technical skills** with **leadership & social engagement** through my involvement in **Leo Club Sfax Essour**, organizing impactful humanitarian projects.  
 
 ---
 
