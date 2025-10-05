@@ -1,32 +1,37 @@
 # 👋 Hi, I’m Farah Sellami
 
-I'm a **3rd-year IT engineering student** at the **International Institute of Technology, Sfax**, specializing in **Software Engineering and Decision Support Systems**.  
+I’m a **3rd-year IT engineering student** at the **International Institute of Technology, Sfax**, specializing in **Software Engineering & Decision Support Systems**.  
 
-I’m passionate about **web development, DevOps practices, and cloud technologies**. I enjoy building scalable applications, automating workflows, and contributing to innovative projects.
+I’m passionate about **DevOps, web development, and Business Intelligence**. I enjoy building scalable applications, automating workflows, designing data-driven solutions, and contributing to innovative projects.
 
 ---
 
-## 🔭 What I’m currently doing
-- Pursuing my final-year internship in **Development and DevOps**.
-- Exploring **full-stack development** with **Angular, React, Laravel, and ASP.NET Core**.
-- Working on projects involving **Docker, CI/CD pipelines, and AWS Cloud**.
+## 🔭 Currently
+- Pursuing my **final-year internship** in **Development & DevOps**.  
+- Exploring **full-stack development** with **Angular, React, Laravel, and ASP.NET Core**.  
+- Working on projects involving **Docker, CI/CD pipelines, AWS Cloud**, and **data analysis/BI tools**.
 
 ---
 
 ## 👀 Interests
-- Web Development (Frontend & Backend)
-- DevOps & Cloud Computing
-- Business Intelligence
-- Microservices architecture
-- CI/CD automation
-- Agile project management
+- **DevOps & Cloud Computing**  
+- **Business Intelligence & Data Analytics**  
+- Web Development (Frontend & Backend)  
+- Microservices Architecture  
+- CI/CD Automation  
+- Agile Project Management  
 
 ---
 
 ## 💼 Experience Highlights
-- **President** at **Leo Club Sfax Essour** (2025–Present): Coordination of humanitarian projects and team leadership.  
-- **Vice-President, Secretary, Member**: Progressive leadership roles demonstrating growth and commitment.  
-- **Professional Internships**: Multiple web and DevOps projects including payment systems, point-of-sale applications, and cloud microservices.
+- **President — Leo Club Sfax Essour (2025–Present)**  
+  Coordinated humanitarian projects and led the team effectively.  
+- **Vice-President / Secretary / Member — Leo Club Sfax Essour**  
+  Progressive leadership roles showcasing growth and engagement.  
+- **Professional Internships:**  
+  - Developed web apps (Angular, .NET, MySQL) including dashboards & payment systems.  
+  - Implemented DevOps pipelines & microservices on **AWS Cloud**.  
+  - Worked on **BI-related tasks**: data dashboards, reporting, and visualization.
 
 ---
 
@@ -34,13 +39,21 @@ I’m passionate about **web development, DevOps practices, and cloud technologi
 - **Languages:** Python, Java, JavaScript, TypeScript, C, C#, SQL  
 - **Frameworks & Web Tech:** Angular, React, ASP.NET Core, Spring Boot, Laravel  
 - **DevOps & Cloud:** Docker, Kubernetes, AWS, CI/CD, Git  
-- **Project Management:** Agile methodologies (Scrum), Trello, Notion
+- **Business Intelligence:** Data analysis, dashboards, reporting  
+- **Project Management:** Agile (Scrum), Trello, Notion  
 
 ---
 
-## 📫 How to reach me
+## 📫 Contact Me
 - Email: [sellamifarah@sfax.r-iset.tn](mailto:sellamifarah@sfax.r-iset.tn) | [farah.sellami@iit.ens.tn](mailto:farah.sellami@iit.ens.tn)  
 - LinkedIn: [linkedin.com/in/farahsellami](https://www.linkedin.com/in/farahsellami)  
-- GitHub: [github.com/Farah-sellami](https://github.com/Farah-sellami)
+- GitHub: [github.com/Farah-sellami](https://github.com/Farah-sellami)  
 
 ---
+
+## 🌱 Fun Fact
+I combine **technical skills** with **leadership & social engagement** through my involvement in **Leo Club Sfax Essour**, organizing impactful humanitarian projects.  
+
+---
+
+💡 **Open to opportunities for final-year internship in DevOps, Web Development, or Business Intelligence.**
