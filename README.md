@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Farah Sellami
+**Software Engineer | Full-Stack .NET | Data, Cloud & DevOps**
 
-I’m a **3rd-year IT engineering student** at the **International Institute of Technology, Sfax**, specializing in **Software Engineering & Business Intelligence**.  
+I’m a **Software Engineering graduate** from the **International Institute of Technology (IIT), Sfax**, with an engineering degree in **Software Engineering & Business Intelligence**.
 
-I’m passionate about **DevOps, web development, and Business Intelligence**. I enjoy building scalable applications, automating workflows, designing data-driven solutions, and contributing to innovative projects.
+I enjoy designing and developing **scalable software solutions**, building **full-stack applications**, working with **data and analytics**, and exploring **Cloud, DevOps, and AI technologies**.
 
 ---
 
