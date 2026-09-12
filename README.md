@@ -24,7 +24,8 @@ I enjoy designing and developing **scalable software solutions**, building **ful
 ---
 
 ## 💼 Experience Highlights
-- **President — Leo Club Sfax Essour (2025–Present)**  
+- **Immediate Past President — Leo Club Sfax Essour (present)**  
+- **President — Leo Club Sfax Essour (2025–2026)**  
   Coordinated humanitarian projects and led the team effectively.  
 - **Vice-President / Secretary / Member — Leo Club Sfax Essour**  
   Progressive leadership roles showcasing growth and engagement.  
