@@ -51,4 +51,6 @@ I enjoy designing and developing **scalable software solutions**, building **ful
 
 ---
 
-💡 **Open to opportunities for final-year internship in DevOps, Web Development, or Business Intelligence.**
+### 💡 Open to opportunities
+
+I’m currently interested in opportunities as a **Software Engineer, Full-Stack Developer, .NET Developer, Data/BI Engineer, or Cloud & DevOps Engineer**, particularly in **software, banking, finance, automotive, and digital transformation**.
